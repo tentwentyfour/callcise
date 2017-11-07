@@ -1,4 +1,4 @@
-import assert from 'helpbox/source/assert';
+const assert = require('helpbox/source/assert');
 
 let Callcise;
 
